@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "FontAwesomeKit/FontAwesomeKit.h"
+#import "CWStatusBarNotification.h"
 
 @interface ViewController : UIViewController
+
 
 
 @end

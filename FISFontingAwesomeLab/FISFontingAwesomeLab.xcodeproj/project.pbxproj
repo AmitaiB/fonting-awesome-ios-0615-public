@@ -42,7 +42,7 @@
 		384C19741B37A39C0041BBFB /* FISFontingAwesomeLabTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FISFontingAwesomeLabTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		384C19791B37A39C0041BBFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		384C197A1B37A39C0041BBFB /* FISFontingAwesomeLabTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FISFontingAwesomeLabTests.m; sourceTree = "<group>"; };
-		3887693A1B383FF6006AD2A7 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; };
+		3887693A1B383FF6006AD2A7 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A96B75771F0E566F514A57A1 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		F35A1D970C9F974D9DA185C6 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
